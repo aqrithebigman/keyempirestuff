@@ -1,0 +1,69 @@
+{
+  "Cheapkeyz": {
+    "pfp": "https://i.ibb.co/Y4pqzbwG/bitdancerlogo.jpg",
+    "valex": {
+      "1": {
+        "price": "2.84",
+        "url": "https://cheapkeyz.store/group/valex"
+      },
+      "7": {
+        "price": "7.37",
+        "url": "https://cheapkeyz.store/group/valex"
+      },
+      "30": {
+        "price": "23.74",
+        "url": "https://cheapkeyz.store/group/valex"
+      },
+      "payments": [
+        "crypto",
+        "paypal",
+        "stripe"
+      ],
+      "lifetime": {
+        "price": "49.99",
+        "url": "https://cheapkeyz.store/group/valex"
+      }
+    },
+    "seliware": {
+      "7": {
+        "price": "3.99",
+        "url": "https://cheapkeyz.store/group/getseliware"
+      },
+      "30": {
+        "price": "9.90",
+        "url": "https://cheapkeyz.store/group/getseliware"
+      },
+      "payments": [
+        "crypto",
+        "paypal",
+        "stripe"
+      ]
+    },
+    "assembly": {
+      "payments": [
+        "crypto",
+        "paypal",
+        "stripe"
+      ],
+      "lifetime": {
+        "price": "9.96",
+        "url": "https://cheapkeyz.store/product/assembly"
+      }
+    },
+    "ronin": {
+      "30": {
+        "price": "5.99",
+        "url": "https://cheapkeyz.store/group/ronin"
+      },
+      "payments": [
+        "crypto",
+        "paypal",
+        "stripe"
+      ],
+      "lifetime": {
+        "price": "9.89",
+        "url": "https://cheapkeyz.store/group/ronin"
+      }
+    }
+  }
+}
