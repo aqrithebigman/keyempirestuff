@@ -1,69 +1,70 @@
 {
   "Cheapkeyz": {
-    "pfp": "https://i.ibb.co/Y4pqzbwG/bitdancerlogo.jpg",
+    "pfp": "https://tenor.com/view/yes-gif-24498059",
     "valex": {
       "1": {
         "price": "2.84",
-        "url": "https://cheapkeyz.store/group/valex"
+        "url": "https://cheapkeyz.store/affiliate/>affiliate<"
       },
       "7": {
         "price": "7.37",
-        "url": "https://cheapkeyz.store/group/valex"
+        "url": "https://cheapkeyz.store/affiliate/>affiliate<"
       },
       "30": {
         "price": "23.74",
-        "url": "https://cheapkeyz.store/group/valex"
+        "url": "https://cheapkeyz.store/affiliate/>affiliate<"
       },
       "payments": [
-        "crypto",
-        "paypal",
-        "stripe"
+        "crypto"
       ],
       "lifetime": {
-        "price": "58.74",
-        "url": "https://cheapkeyz.store/group/valex"
+        "price": "39.99",
+        "url": "https://cheapkeyz.store/affiliate/>affiliate<"
       }
     },
     "seliware": {
       "7": {
-        "price": "3.99",
-        "url": "https://cheapkeyz.store/group/getseliware"
+        "price": "3.90",
+        "url": "https://cheapkeyz.store/affiliate/>affiliate<"
       },
       "30": {
         "price": "9.90",
-        "url": "https://cheapkeyz.store/group/getseliware"
+        "url": "https://cheapkeyz.store/affiliate/>affiliate<"
       },
       "payments": [
-        "crypto",
-        "paypal",
-        "stripe"
+        "crypto"
       ]
     },
     "assembly": {
       "payments": [
-        "crypto",
-        "paypal",
-        "stripe"
+        "crypto"
       ],
       "lifetime": {
-        "price": "7.99",
-        "url": "https://cheapkeyz.store/product/assembly"
+        "price": "9.96",
+        "url": "https://cheapkeyz.store/affiliate/>affiliate<"
       }
     },
     "ronin": {
       "30": {
         "price": "5.99",
-        "url": "https://cheapkeyz.store/group/ronin"
+        "url": "https://cheapkeyz.store/affiliate/>affiliate<"
       },
       "payments": [
-        "crypto",
-        "paypal",
-        "stripe"
+        "crypto"
       ],
       "lifetime": {
         "price": "9.89",
-        "url": "https://cheapkeyz.store/group/ronin"
+        "url": "https://cheapkeyz.store/affiliate/>affiliate<"
       }
+    },
+    "serotonin": {
+      "30": {
+        "price": "9.99",
+        "url": "https://cheapkeyz.store/affiliate/>affiliate<"
+      },
+      "payments": [
+        "crypto"
+      ]
     }
   }
 }
